@@ -22,7 +22,7 @@ DoctorFiles is an **automated file sorter** inspired by the iconic "Doctor Who" 
 
 1. Clone or download the repository:
    ```
-   git clone https://github.com/yourusername/DoctorFiles.git
+   git clone https://github.com/nipungoel24/DoctorFiles.git
    ```
 2. Navigate to the project folder:
    ```
@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, reach out via GitHub Issues or contact the maintainer at your.email@example.com.
+For any questions or suggestions, reach out via GitHub Issues or contact the maintainer at nipun24.goel@gmail.com.
 
 ---
 
